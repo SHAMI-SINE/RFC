@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RFC/static/css/main.ab48d72f.css",
+    "main.js": "/RFC/static/js/main.9999bf08.js",
+    "static/js/787.5653e3f8.chunk.js": "/RFC/static/js/787.5653e3f8.chunk.js",
+    "static/media/soft-drinks.jpg": "/RFC/static/media/soft-drinks.20148df6cc9a96c1532d.jpg",
+    "static/media/chickenwings.jpg": "/RFC/static/media/chickenwings.ee498557d5105fc04064.jpg",
+    "static/media/Cold cofee.jpg": "/RFC/static/media/Cold cofee.671d729738ed52c4801e.jpg",
+    "static/media/pizza.jpg": "/RFC/static/media/pizza.5bc2ecad40b3ff20075b.jpg",
+    "static/media/Cheeseburger.jpg": "/RFC/static/media/Cheeseburger.bf53ee883e966fc61035.jpg",
+    "static/media/banner.jpg": "/RFC/static/media/banner.10e28db473512214c1dd.jpg",
+    "index.html": "/RFC/index.html",
+    "main.ab48d72f.css.map": "/RFC/static/css/main.ab48d72f.css.map",
+    "main.9999bf08.js.map": "/RFC/static/js/main.9999bf08.js.map",
+    "787.5653e3f8.chunk.js.map": "/RFC/static/js/787.5653e3f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab48d72f.css",
+    "static/js/main.9999bf08.js"
+  ]
+}
